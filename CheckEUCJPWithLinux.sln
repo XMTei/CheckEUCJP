@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckEUCJPWithLinux", "CheckEUCJPWithLinux\CheckEUCJPWithLinux.csproj", "{8D17F19E-5DF9-4DFB-BD3F-9DEC0172A67A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D17F19E-5DF9-4DFB-BD3F-9DEC0172A67A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D17F19E-5DF9-4DFB-BD3F-9DEC0172A67A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D17F19E-5DF9-4DFB-BD3F-9DEC0172A67A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D17F19E-5DF9-4DFB-BD3F-9DEC0172A67A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B5AE53E-328A-4440-A0AF-48D4AE6D9E07}
+	EndGlobalSection
+EndGlobal
