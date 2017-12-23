@@ -1,4 +1,4 @@
-﻿namespace CheckEUCJPWithLinux
+﻿namespace CheckEUCJP
 {
 	partial class ITLAbout
 	{
@@ -39,7 +39,7 @@
 			this.labelProductName.AutoSize = true;
 			this.labelProductName.Location = new System.Drawing.Point(18, 21);
 			this.labelProductName.Name = "labelProductName";
-			this.labelProductName.Size = new System.Drawing.Size(35, 15);
+			this.labelProductName.Size = new System.Drawing.Size(61, 23);
 			this.labelProductName.TabIndex = 0;
 			this.labelProductName.Text = "label1";
 			// 
@@ -48,7 +48,7 @@
 			this.labelVersion.AutoSize = true;
 			this.labelVersion.Location = new System.Drawing.Point(18, 48);
 			this.labelVersion.Name = "labelVersion";
-			this.labelVersion.Size = new System.Drawing.Size(35, 15);
+			this.labelVersion.Size = new System.Drawing.Size(61, 23);
 			this.labelVersion.TabIndex = 1;
 			this.labelVersion.Text = "label2";
 			// 
@@ -57,7 +57,7 @@
 			this.linkLabelCopyrights.AutoSize = true;
 			this.linkLabelCopyrights.Location = new System.Drawing.Point(18, 75);
 			this.linkLabelCopyrights.Name = "linkLabelCopyrights";
-			this.linkLabelCopyrights.Size = new System.Drawing.Size(115, 15);
+			this.linkLabelCopyrights.Size = new System.Drawing.Size(196, 23);
 			this.linkLabelCopyrights.TabIndex = 2;
 			this.linkLabelCopyrights.TabStop = true;
 			this.linkLabelCopyrights.Text = "INF Technologies Ltd.";
@@ -68,16 +68,16 @@
 			this.buttonOK.DialogResult = System.Windows.Forms.DialogResult.OK;
 			this.buttonOK.Location = new System.Drawing.Point(147, 105);
 			this.buttonOK.Name = "buttonOK";
-			this.buttonOK.Size = new System.Drawing.Size(75, 23);
+			this.buttonOK.Size = new System.Drawing.Size(75, 30);
 			this.buttonOK.TabIndex = 3;
 			this.buttonOK.Text = "OK";
 			this.buttonOK.UseVisualStyleBackColor = true;
 			// 
 			// ITLAbout
 			// 
-			this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+			this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 23F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(368, 137);
+			this.ClientSize = new System.Drawing.Size(368, 147);
 			this.Controls.Add(this.buttonOK);
 			this.Controls.Add(this.linkLabelCopyrights);
 			this.Controls.Add(this.labelVersion);

@@ -1,4 +1,4 @@
-﻿namespace CheckEUCJPWithLinux
+﻿namespace CheckEUCJP
 {
 	partial class Form1
 	{

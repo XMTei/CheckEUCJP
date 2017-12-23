@@ -7,7 +7,7 @@ using System.IO;
 using System.Text;
 using System.Windows.Forms;
 
-namespace CheckEUCJPWithLinux
+namespace CheckEUCJP
 {
 	public partial class Form1 : Form
 	{
